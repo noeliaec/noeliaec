@@ -1,5 +1,5 @@
 <h1 align="center">Hola, soy Noelia</h1>
-<h3 align="center">Una ingeniera de control de calidad (QA) apasionada</h3>
+<h3 align="center">Ingeniera de control de calidad (QA) </h3>
 
 <p align="left"> <a href ="https://github.com/ryo-ma/github-profile-trofeo"><img src="https://github-perfil-trofeo.vercel.app/?username=noeliaec" alt="noeliaec" /></a> </p>
 
