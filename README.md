@@ -1,6 +1,5 @@
-# Hello 👋
-
-## My Name is Noelia, I´m a apassionate Quality control (QA) Engineer
+<h1 align="center">Hello 👋</h1>
+<h3 align="center">My Name is Noelia, I´m a apassionate Quality control (QA) Engineer</h3>
 
 ### 💬 Skills
 
