@@ -1,8 +1,8 @@
-### Hello 👋
+# Hello 👋
 
-My Name is Noelia, I´m a apassionate quality control (qa) engineer
+## My Name is Noelia, I´m a apassionate quality control (qa) engineer
 
-## 💬 Skills
+### 💬 Skills
 
 * API
 * Postman API
