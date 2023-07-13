@@ -1,6 +1,6 @@
 # Hello 👋
 
-## My Name is Noelia, I´m a apassionate quality control (qa) engineer
+## My Name is Noelia, I´m a apassionate Quality control (QA) Engineer
 
 ### 💬 Skills
 
