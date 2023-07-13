@@ -17,3 +17,5 @@
 * Java
 
  🌱 I’m currently learning Java and Phytom
+ 
+ https://www.linkedin.com/in/noeliacastroqa/
